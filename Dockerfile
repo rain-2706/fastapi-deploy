@@ -2,7 +2,7 @@ FROM tiangolo/uvicorn-gunicorn-fastapi:python3.7
 
 WORKDIR /app
 
-COPY ./app /app
+COPY . .
 
 RUN pip install fastapi uvicorn scikit-learn joblib
 
