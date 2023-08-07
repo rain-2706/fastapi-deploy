@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fastapi-deploy-395214",
+  "private_key_id": "5214f4a01910795565b338b04ee4c0bf31fd99a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDKKGTibpJdPbfV\n/kPEBhajsi11v3CjlExwweAO4vJXEIi5Khm1Ekt3x3ATI+DINQWaulR9P+46484H\n0xdsW7Pk+MqyhlGnsmh6YpHrD8mlZGHoJcuMIZ7aQ9I0e4Eo1jEzzGAEB+9ZGcS0\n1/ztpJ28G8wtZKlzNv3G0qt9G1tZzIQNTSVmZYv3OM+E9qr7WJY5yfp1sZt5KQFf\nOfTzDOipcfg7gRrYqQ5YJRqwujrie99MGV6c8IgdoEDgiyBhSNB/jBOnPwd/2qnc\nCpbJu+KeH7JUfUVEmZGU8TbXFNJ51zYSUMUOyk1dUcJUYgk0zat62C7iHBNSI4aE\nu6+qyUXVAgMBAAECggEAQ4BHZ2AaWS3xg2+6Our5hkFJcqawur4a5A+oe/AFkVLB\nBGrtWIu6TU13u7xgIxmpPGf5LDU7m8hTFEPE73aTU+JK9F9rRn6I6kydgoqr/yDM\nnFJ6a9kSDLlWqBWRJAyZMz2L1ey8W9kB2IzCNKuhy5zQiVuyRPlYtZnEjyqiTxIm\nHVypVaVWuIsjHaYE2IAjAqO26oWkaoyyUL9XxIM7UQbVnTUrahiQ4VLKYG/JbNxy\nXU0JdDFKNGrlSSeCpxGedjMDQrVZITguQXB9S7N+wGsC0Jmjdb65w9R3PO6neP15\ngavFQb8aEsW5jqo5S9dMK9tO4s8uDrZ/DcqC2spWxQKBgQDkMzOviLLttX6v8ZPd\n9fF4uagr9AEGT//9njBZEm/WZOAth6HY10Wk28lDuE5pCCFP5Bg0uNYerb1FTq6e\ng4lHavQbMNI6o/UlIB5h3NiVJx76HyP9XethtytFydfRs0hqYN1Nr918u2Fzq85v\nwSo5d8Pww8gmgS44Lq4O/xYXYwKBgQDiyQWrgxiXJTgh+fgdoUNevwDhX6bumxph\nnkX6rzLips/5VSm2RkUQ88UeZjXeFQMNWyqgUyMrYSgu6gwxZYfJGOGnjvkjZf6h\nOXyMAeCqRUxfHddMGK2PnNfo6qKZtx3FF+1mw7RBI6envRYz60Lcm5B/C1EedF6D\nmK6FtrG/ZwKBgEAIthoti7f0U+ZfLZT9LJMp1azvvVHeJQEv4HU+HS/WAqoEA0Br\nt9k461MbZrVGWMKoSLqSm1LkgdXu7EUCuATYWENBAdz+oQ2X466mYAgKgEDDeD/i\nmOhEk9nzd6IaYtmm8LKaBNa5ZfElZropRAX4O31WEtXrLeMKBkGjBrntAoGAes9l\ndKW/kUokhbG6PUFxHEPPFD0aRyhTNv3g44owwjCXe2w09HJFQJLh8j5jeWpjhr4R\n7VRYPUuV2SIBjFZxG+OPf4+bNyIqq+BXo/H4WfzBCNk+GAVdJ+JFweoeN6PESVFV\nzEq6uHO4fMuW1HLYeGL98u6L9TQLYrQx/lMbGo0CgYBJiZgm9gQzoq85ubPZmJkI\nb19iM1ZZ27uW3rh/yL2CVn5P3ZQxrRBPa/8ZVhSGXsk4iBeqOGjr5SBFtBG8R7ET\nDenIdMwYk/H/DXIWYl2fWpaJf4+0mLJZM99c0uoAecGrBJq9z03w22b/KcD0qfZc\nH+IY1InKf0n8epuoC7RkZw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "githubactions@fastapi-deploy-395214.iam.gserviceaccount.com",
+  "client_id": "101136018449170907178",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/githubactions%40fastapi-deploy-395214.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
